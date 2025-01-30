@@ -38,7 +38,7 @@ function calculate(firstOperand, operator, secondOperand) {
     switch (operator) {
         case '+':
             return a + b;
-        case '-':
+        case '−':
             return a - b;
         case '×':
             return a * b;
